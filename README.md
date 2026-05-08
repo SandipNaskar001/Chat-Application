@@ -1,4 +1,4 @@
-# 💬 Chatify — Real-Time Chat App
+# 💬 ChatEasy — Real-Time Chat App
 
 A full-stack real-time chat application built with React, Node.js, Socket.IO, and MongoDB.
 
